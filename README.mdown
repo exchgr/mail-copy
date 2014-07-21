@@ -1,0 +1,14 @@
+# Copy Message URL
+
+Copies the URLs of messages in Mail.app. For use in [FastScripts](http://www.red-sweater.com/fastscripts/).
+
+## Why?
+
+Have you ever needed to get back to an email quickly? Or have you ever wanted to attach a locally stored email message to a text file? This script lets you do exactly that. With the help of FastScripts, you can assign a keybinding that lets you copy messages' URLs into other apps.
+
+## Features
+
++ Copy the URL of any locally stored email and paste it into a text field for quick access later.
+  + Example: `message://<20140719121756.2823979.340563@sailthru.com>`
++ Copy multiple messages at once.
++ Planned: Copy rich text hyperlinks including the subject line.
