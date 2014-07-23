@@ -12,3 +12,9 @@ Have you ever needed to get back to an email quickly? Or have you ever wanted to
   + Example: `message://<20140719121756.2823979.340563@sailthru.com>`
 + Copy multiple messages at once.
 + Planned: Copy rich text hyperlinks including the subject line.
+
+## Installation
+
+1. Copy (don't symlink) `Copy Message URL.applescript` to `~/Library/Scripts/Applications/Mail/Copy Message URL.scpt`. **Note the different extension.**
+2. In FastScripts, assign a keyboard shortcut to `Copy Message URL.scpt`, which will appear in the correct location in the folder hierarchy.
+3. Go to Mail.app, select a few messages, and test out your keyboard shortcut.
